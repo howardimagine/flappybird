@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "L3",
+"dataUrl": "L3 Build.data.unityweb",
+"asmCodeUrl": "L3 Build.asm.code.unityweb",
+"asmMemoryUrl": "L3 Build.asm.memory.unityweb",
+"asmFrameworkUrl": "L3 Build.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
